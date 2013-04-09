@@ -1,0 +1,23 @@
+{
+  "name": "atwitter",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": ["twitter","application"],
+  "homepage": "https://github.com/B3rn475/atwitter",
+  "author": "B3rn475",
+  "licenses": {
+    "type": "MIT",
+    "url": "http://github.com/B3rn475/atwitter/raw/master/LICENSE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/B3rn475/atwitter.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "should": "*",
+  },
+  "engines": {"node":">=0.4.0"},
+  "main": "./lib/atwitter"
+}
