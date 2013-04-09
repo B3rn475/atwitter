@@ -13,8 +13,6 @@ function aTwitter(options) {
    };
    this.options = utils.merge(defaults, options);
    
-   var auth = AOAManager(this.options);
-   
 }
 Twitter.VERSION = VERSION;
 module.exports = Twitter;
