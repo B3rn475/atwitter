@@ -16,7 +16,7 @@
   "dependencies": {
   },
   "devDependencies": {
-    "should": "*",
+    "should": "*"
   },
   "engines": {"node":">=0.4.0"},
   "main": "./lib/atwitter"
